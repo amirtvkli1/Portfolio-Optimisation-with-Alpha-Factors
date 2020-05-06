@@ -1,0 +1,2 @@
+# Portfolio-Optimisation-with-Alpha-Factors
+In this project, a statistical risk model using PCA is made. This model will be used to build a portfolio along with 5 alpha factors. When the factors are created, then they will be evaluated using factor-weighted returns, quantile analysis, sharpe ratio, and turnover analysis. At the end of the project, the portfolio will be optimised using the risk model and factors using multiple optimization formulations. For the dataset, we'll be using the end of day from Quotemedia and sector data from Sharadar.
