@@ -14,7 +14,7 @@ click==7.1.1
 cloudpickle==1.4.1
 colour==0.1.5
 contextlib2==0.6.0.post1
-cryptography==2.3.1
+cryptography==3.2
 cvxpy==1.0.31
 cycler==0.10.0
 cyordereddict==0.2.2
