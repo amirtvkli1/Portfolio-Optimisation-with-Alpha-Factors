@@ -5,7 +5,7 @@ asn1crypto==0.24.0
 astroid==1.6.5
 Babel==2.8.0
 bcolz==0.12.1
-bleach==3.1.4
+bleach==3.3.0
 Bottleneck==1.2.1
 certifi==2018.8.24
 cffi==1.11.5
