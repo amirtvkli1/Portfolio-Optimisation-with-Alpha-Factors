@@ -3,7 +3,7 @@ alembic==0.7.7
 alphalens==0.4.0
 asn1crypto==0.24.0
 astroid==1.6.5
-Babel==2.8.0
+Babel==2.9.1
 bcolz==0.12.1
 bleach==3.1.4
 Bottleneck==1.2.1
